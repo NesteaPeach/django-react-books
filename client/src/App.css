@@ -1,0 +1,21 @@
+/* unvisited link */
+a:link {
+    color: #d79032;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:#e18031;
+  }
+  
+  /* mouse over link */
+
+  
+  /* selected link */
+  a:active {
+    color: rgb(21, 105, 240);
+  }
+  a{
+    padding-left: 10px;
+  }
